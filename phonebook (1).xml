@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>4</id>
+		<name>Blacklist</name>
+	</pbgroup>
+	<pbgroup>
+		<id>5</id>
+		<name>Whitelist</name>
+	</pbgroup>
+	<pbgroup>
+		<id>6</id>
+		<name>Work</name>
+	</pbgroup>
+	<pbgroup>
+		<id>7</id>
+		<name>Friends</name>
+	</pbgroup>
+	<pbgroup>
+		<id>8</id>
+		<name>Family</name>
+	</pbgroup>
+	<Contact>
+		<id>4</id>
+		<FirstName>Matheus Freitas</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>1131</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>5</id>
+		<FirstName>T.I</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>1154</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+
+	<Contact>
+		<id>6</id>
+		<FirstName>Geovana/Natália</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>1164</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<Department>Fiscal</Department>
+	</Contact>
+</AddressBook>
+
